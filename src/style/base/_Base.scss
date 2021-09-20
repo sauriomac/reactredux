@@ -1,0 +1,82 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+
+html,
+body {
+    height: 100hw;
+    width: 100vw;
+}
+
+
+main {
+    width: 100%;
+
+}
+.mt-1 {
+    margin-top: 5px;
+}
+.mt-2 {
+    margin-top: 10px;
+}
+.mt-2 {
+    margin-top: 15px;
+}
+.mt-4 {
+    margin-top: 20px;
+}
+.mt-5 {
+    margin-top: 25px;
+}
+
+.mb-1 {
+    margin-bottom: 5px;
+}
+
+.mb-2 {
+    margin-bottom: 10px;
+}
+
+.mb-2 {
+    margin-bottom: 15px;
+}
+
+.mb-4 {
+    margin-bottom: 20px;
+}
+
+.mb-5 {
+    margin-bottom: 25px;
+}
+
+
+.m-0{
+    margin:0px;
+} 
+
+.h-screen {
+    height: 100vh;
+
+}
+.ml-1 {
+    margin-left: 5px;
+
+}
+.mr-1 {
+    margin-right: 5px;
+
+}
+.w-screen {
+    width: 100vw;
+
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+}

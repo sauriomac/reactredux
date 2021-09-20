@@ -1,0 +1,13 @@
+.notselect {
+    align-items: center;
+    background-color: $primary;
+    color: wheat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+
+    p {
+        text-align: center;
+    }
+}
